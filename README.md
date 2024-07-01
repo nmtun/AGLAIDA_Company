@@ -1,4 +1,4 @@
-# Website Source Code for Smart Home Development Project in Vietnam - Subject of Innovation Startup at HUST
+### Website Source Code for Smart Home Development Project in Vietnam - Subject of Innovation Startup at HUST
 
 ### Getting Started:
 1. Clone the repository: `git clone https://github.com/nmtun/AGLAIDA_Company.git`
